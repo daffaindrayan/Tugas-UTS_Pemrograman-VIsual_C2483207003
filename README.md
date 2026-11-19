@@ -39,7 +39,7 @@ Aplikasi Kasir Kantin Kampus adalah aplikasi desktop sederhana yang dibuat mengg
 ![Tampilan Utama](screenshots/tampilan-utama.png)
 
 ### 2. Hasil Perhitungan Total
-![Hasil Total](screenshots/hasil-total-nasi%20goreng.png)
+![Hasil Total](screenshots/hasil-total.png)
 
 ### 3. Hasil Pembayaran dan Kembalian
 ![Hasil Pembayaran](screenshots/hasil-pembayaran.png)
